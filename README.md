@@ -6,7 +6,7 @@ These are scripts that answer questions from leetcode.Links to questions and my 
 
 | Question                | Answer                 |
 |-------------------------|------------------------:|
-| <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/description/">Employees earn more than their managers</a> | <a href="https://github.com/Sahith21/SQL/blob/main/ConsecutiveNumbers.sql">Solution</a> |
+| <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/description/">Employees earn more than their managers</a> | <a href="https://github.com/Sahith21/SQL/blob/main/employees_managers.sql">Solution</a> |
 | <a href="https://leetcode.com/problems/second-highest-salary/description/">Second highest salaries</a> | <a href="https://github.com/Sahith21/SQL/blob/main/SecondHighestSalary.sql">Solution</a> |
 | <a href="https://leetcode.com/problems/customers-who-never-order/">Customers who never order</a> | <a href="https://github.com/Sahith21/SQL/blob/main/CustomersDontOrder.sql">Solution</a> | 
 | <a href="https://leetcode.com/problems/duplicate-emails/description/">Duplicate Emails</a> | <a href="https://github.com/Sahith21/SQL/blob/main/DuplicateEmails.sql">Solution</a> |
